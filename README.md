@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-Created interactive dashboard to show the attrition rate happens in the company. Which involved cleaning the data,errors,unwanted symbols to ensure its accuracy and reliability by using PowerQuery editor.
+Created interactive dashboard to show how the attrition happens in the company. Which involved cleaning the data,errors,unwanted symbols to ensure its accuracy and reliability by using PowerQuery editor.
 It helps organization to improve employee performance and improve employee retention(reduce attrition).
 
 
