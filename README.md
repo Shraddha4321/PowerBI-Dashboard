@@ -3,6 +3,8 @@ Created interactive dashboard which involved cleaning the data,errors,unwanted s
 It helps organization to improve employee performance and improve employee retention(reduce attrition).
 
 
-![image](https://github.com/user-attachments/assets/4251c80e-c62f-4b49-9dd2-a49df178f606)
+
+![image](https://github.com/user-attachments/assets/18ffb70a-2ff4-47fb-80ef-2b800d65d4e1)
+
 
 
