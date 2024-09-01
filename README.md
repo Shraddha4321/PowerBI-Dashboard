@@ -19,10 +19,11 @@ Data Visualization Tool - PowerBI
 
 # Summary Of Findings
 
-. The attrition rate of Male is greater than the Female. \n
-Department level filters show the details based on each Department.
-Key Performance Indicators(KPI) is summary of the overall Dashboard.
-5 Age groups were created (18-25,26-35,36-45,46-55,55+). A large number of employees who leaves the company were between 26-35 age group.
+•	The attrition rate of Male is greater than the Female.
+•	Department level filters show the details based on each Department.
+•	Key Performance Indicators(KPI) is summary of the overall Dashboard.
+•	5 Age groups were created (18-25,26-35,36-45,46-55,55+). A large number of employees who leaves the company were between 26-35 age group.
+
 
 
 
